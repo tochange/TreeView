@@ -1,0 +1,44 @@
+8
+
+dir
+3700
+http://172.16.1.105/svn/DC-4601/01editing/03coding/trunk/AndroidUI/DC4601_new/assets/cable
+http://172.16.1.105/svn/DC-4601
+
+
+
+2013-11-13T04:33:21.500000Z
+3451
+yangxj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3e1aeaa0-ac72-4245-81cf-fac690dc179a
+
+cablepic
+dir
+
+cableinfo.db
+file
+
+
+
+
+2013-11-13T04:27:30.855803Z
+a5604208ddaf76f7d6a60c41abfdd7d1
+2013-11-13T04:33:21.500000Z
+3451
+yangxj
+has-props
+

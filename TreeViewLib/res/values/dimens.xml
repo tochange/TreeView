@@ -1,0 +1,20 @@
+<resources>
+
+    <dimen name="treenode_height">40dp</dimen>
+    <dimen name="treenode_offset">7dp</dimen>
+	<dimen name="treenode_line_offset">5dp</dimen>
+	<dimen name="treenode_icon_width">30dp</dimen>
+	
+    <dimen name="content_title">40dp</dimen>
+    <dimen name="content_tool">40dp</dimen>
+    <dimen name="content_tool_btn_height">30dp</dimen>
+    <dimen name="app_data_offset">5dp</dimen>
+    <dimen name="act_padding">15dp</dimen>
+    <dimen name="con_padding">10dp</dimen>
+	
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="padding_medium">15dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    
+    <dimen name="l_text_size">18sp</dimen>
+</resources>

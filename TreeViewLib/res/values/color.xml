@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text">#8BB6F2</color>
+    <color name="tree_node_bg">#BBD6F2</color>
+    <color name="black">#000000</color>
+
+</resources>
